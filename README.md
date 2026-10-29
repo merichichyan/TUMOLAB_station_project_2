@@ -9,3 +9,4 @@ The player should roll two dice. If the sum of both of them is 7 or 11 the playe
 Your task is to recreate this game using Python. Your program should roll two dice and output the sum of two random numbers. By following the rules of the game, your program should decide whether the player wins or loses.
 # TUMOLAB_station_project_2
 # TUMOLAB_station_project_2
+# TUMOLAB_station_project_3
